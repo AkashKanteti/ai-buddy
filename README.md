@@ -1,3 +1,3 @@
-# json_parser
-# json_parser
-# ai-buddy
+Replace bot and app-level tokens in the code
+
+`go run main.go`
